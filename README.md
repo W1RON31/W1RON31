@@ -27,15 +27,18 @@
 
 ### 🌸 Обо мне
 
-<img align="right" width="220" src="./gifgivecom.gif" alt="Sakura" />
+<div align="center">
+  <img src="./gifgivecom.gif" width="90%" style="border: 2px solid #ffb6c1; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 182, 193, 0.4);" alt="Sakura" />
+</div>
+
+
+
 
 - 🎓 **Обучение:** Студент группы **И-3-25**
 - 💻 **Направление:** Изучаю программирование и верстку
 - ⚙️ **ОС:** Windows 11 Pro
 - 🎨 **Стиль:** Японская эстетика и атмосфера сакуры
-
-<br clear="right"/> 
-
+  
 ---
 ### 🎯 Чем я занимаюсь
 
