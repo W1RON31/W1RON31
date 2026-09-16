@@ -27,14 +27,14 @@
 
 ### 🌸 Обо мне
 
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXk5bmUzeHRqMjltdWV1ZTZydWFwMXZseXZndGNrcThxbXB6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4N1wOi78ZGzSb6H7vM/giphy.gif" alt="Sakura Blossoms" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/everestpipkin/tools-against-the-system/master/assets/sakura.gif" alt="Sakura animation" />
 
 - 🎓 **Обучение:** Студент группы **И-3-25**
 - 💻 **Направление:** Изучаю программирование и верстку
 - ⚙️ **ОС:** Windows 11 Pro
 - 🎨 **Стиль:** Японская эстетика и атмосфера сакуры
 
-<br clear="right"/
+<br clear="right"/>
 ### 🎯 Чем я занимаюсь
 - 🚀 **Изучаю базовую логику:** Стараюсь писать качественные программы Python и C++
 - 🌐 **Вёрстка:** Начал разбираться с HTML для создания веб-страниц
