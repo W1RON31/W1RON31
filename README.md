@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- Шапка с именем в нежном стиле -->
+<!-- Шапка с именем -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=🌸%20W1RON31%20🌸&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
@@ -16,9 +16,11 @@
 <h1 align="center">🌸 Привет, я Эрвин! 🌸</h1>
 <h3 align="center">🎓 Студент группы И-3-25 | 💻 Начинающий разработчик</h3>
 
-<!-- Анимированная бегущая строка через стабильный Capsule -->
+<!-- Работающая бегущая строка -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFC0CB&height=80&text=Python%20|%20C++%20|%20HTML%20|%20Git%20|%20VS%20Code&fontSize=24&fontColor=4A4A4A&animation=twinkle" width="80%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%8E+Python+%D0%B8+C%2B%2B!;%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BA%D1%80%D1%83%D1%82%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B!;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82+%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B+%D0%98-3-25" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -61,8 +63,13 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W1RON31&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1RON31&layout=compact&theme=rose_pine" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=W1RON31&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=W1RON31&layout=compact&theme=rose_pine&hide_border=true" />
+</p>
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
