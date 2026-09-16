@@ -63,17 +63,6 @@
 ### 📊 Статистика GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=W1RON31&show_icons=true&theme=rose_pine&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=W1RON31&layout=compact&theme=rose_pine&hide_border=true" />
-</p>
-
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" width="100%" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=W1RON31&theme=rose-pine&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=W1RON31&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
