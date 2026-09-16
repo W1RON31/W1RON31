@@ -28,7 +28,7 @@
 ### 🌸 Обо мне
 
 <div align="center">
-  <img src="./banner.png" width="90%" style="border: 2px solid #ffb6c1; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 182, 193, 0.4);" alt="Banner" />
+  <img src="./gifgivecom.gif" width="90%" style="border: 2px solid #ffb6c1; border-radius: 15px; box-shadow: 0px 0px 15px rgba(255, 182, 193, 0.4);" alt="Sakura" />
 </div>
 
 
