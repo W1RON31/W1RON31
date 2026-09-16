@@ -27,11 +27,11 @@
 
 ### 🌸 Обо мне
 
-<img align="right" width="220" src="./sakura.gif" alt="Sakura" />
+<img align="right" width="220" src="./gifgivecom.gif" alt="Sakura" />
 
 - 🎓 **Обучение:** Студент группы **И-3-25**
 - 💻 **Направление:** Изучаю программирование и верстку
-- ⚙️ **ОС:** Windows 10 Pro
+- ⚙️ **ОС:** Windows 11 Pro
 - 🎨 **Стиль:** Японская эстетика и атмосфера сакуры
 
 <br clear="right"/>
